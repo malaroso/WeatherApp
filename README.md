@@ -36,8 +36,3 @@ This is a comprehensive mobile application that provides users with real-time we
 2. Bağımlılıkları yükleyin / Install dependencies
 3. Uygulamayı çalıştırın / Run the application
 
-## 🔑 Ortam Değişkenleri / Environment Variables
-
-Uygulamayı çalıştırmak için bir `.env` dosyası oluşturun ve OpenWeatherMap API anahtarınızı ekleyin:
-
-Create a `.env` file and add your OpenWeatherMap API key:
